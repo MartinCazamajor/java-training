@@ -6,7 +6,9 @@ public class PrimitiveTraining {
     }
 
     // TODO 2 : Create a method 'str', result expected : String "Hello"
-
+    public static String str() {
+        return "Hello";
+    }
 
     // TODO 3 : Create a method 'real', result expected : double 3.14
 
