@@ -16,7 +16,7 @@ public class StringTraining {
      */
     public static String concatArgs(String first, String second) {
 
-        return "";
+        return first + second;
     }
 
     /**
