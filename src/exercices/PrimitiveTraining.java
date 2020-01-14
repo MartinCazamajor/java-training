@@ -11,7 +11,9 @@ public class PrimitiveTraining {
     }
 
     // TODO 3 : Create a method 'real', result expected : double 3.14
-
+    public static double real() {
+        return 3.14;
+    }
 
     // TODO 4 : Create a method 'bool', result expected : boolean false
 
